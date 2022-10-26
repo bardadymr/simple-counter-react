@@ -1,0 +1,7 @@
+{
+  "short_name": "Simple Counter",
+  "name": "Simple counter and Modale window on React",
+
+  "start_url": ".",
+  "display": "standalone"
+}
